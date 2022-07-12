@@ -1,2 +1,2 @@
-print("Hi github")
+print("Hello git and VS code")
 print("Auto save")
