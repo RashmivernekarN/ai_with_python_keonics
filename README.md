@@ -7,10 +7,10 @@
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Python_Fundamentals.pdf)
 
 ### Data Types and Operators
-- [PPT](https://lifewithdata.com/wp-content/uploads/2022/03/python_logo-8.png)
+- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Data_Types_and_Operators.pdf)
 
 ### Control Flow
-- [PPT](https://lifewithdata.com/wp-content/uploads/2022/03/python_logo-8.png)
+- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Control%20Flows.pdf)
 
 
 ## Practice
