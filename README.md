@@ -13,7 +13,11 @@
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Control%20Flows.pdf)
 
 
-## Practice
+## Practice Assignments
+### Python Fundamentals
+- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Assignment/Assignment%20Python%20Fundamentals.pdf)
+
+
 ### Software Installation
 
 - [Python](https://www.python.org/downloads/windows/)
