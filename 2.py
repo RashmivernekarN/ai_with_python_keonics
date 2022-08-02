@@ -21,11 +21,12 @@
 
 
 
-name=['abc','def','ghi']
-roll_no = [1,4,2]
+# name=['abc','def','ghi']
+# roll_no = [1,4,2]
 
-mapped = zip(roll_no,name)
-print(dict(mapped))
+
+# mapped = zip(roll_no,name)
+# print(dict(mapped))
 
 
 
@@ -41,4 +42,34 @@ print(dict(mapped))
 
 # print(dict(enumerate(l1,2)))
 
+a=10
+b=20
+list1 = ['alpha','beta','gama','delta']
+list2 = ['d','c','b','a']
+list3=[10,20,50,30,40]
+list1.append(list2)
+print(list1)
+print("____concatenate_______")
+list4 = list1 + list2
 
+print(list4)
+
+
+
+
+
+
+
+
+
+
+# print(min(list3))
+# print("___________________")
+# print(tuple(list1))
+# print("___________________")
+# print(set(list1))
+# print("___________________")
+# zipped = zip(list2,list1)
+# print(dict(zipped))
+# print("___________________")
+# print(set(zip(list2,list1)))
