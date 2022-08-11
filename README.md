@@ -17,6 +17,13 @@
 ### Python Fundamentals
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Assignment/Assignment%20Python%20Fundamentals.pdf)
 
+## Module 2 - Python Advanced
+
+## Theory + Practice 
+### Python Functions
+- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/module2/ppt/Functions.pptx)
+
+
 
 ### Software Installation
 
