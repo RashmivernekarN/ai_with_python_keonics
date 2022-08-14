@@ -1,8 +1,9 @@
 # AI with Python @KeonicsX
 ![Python](https://lifewithdata.com/wp-content/uploads/2022/03/python_logo-8.png)
-## Module 1 - Python Foundation
 
 ## Theory
+## Module 1 - Python Foundation
+
 ### Python Programming Introduction
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Python_Fundamentals.pdf)
 
@@ -25,7 +26,7 @@
 
 
 
-### Software Installation
+### Software Installation Reference
 
 - [Python](https://www.python.org/downloads/windows/)
 - [Anaconda](https://www.anaconda.com/)
