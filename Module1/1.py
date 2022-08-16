@@ -22,7 +22,9 @@ def sqr(str1,str2):
     print("Result of ", f1num, " * ", f2num, "= ",result)
 sqr("hemanth","J")
    a-z,A_Z,0-9,_,.   @ a-z,0-9,.,  . a-z
-     var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+     var validRegex = /^[a-zA-Z0-9.! # $%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 
 
-name="tahir\"
+name="tahir"
+
+

@@ -24,6 +24,10 @@
 ### Python Functions
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/module2/ppt/Functions.pptx)
 
+### Advanced Concepts using Python lists, tuples, sets & dictionaries
+- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/module2/ppt/Advanced%20Concepts%20Using%20Datastructures.pptx)
+
+
 ## Surprise Practical Test Questions:
 - Python program to find the power of a numbers in a list using recursion
 - How to Print Multiple Arguments in Python and  call a function to display the arguments?
