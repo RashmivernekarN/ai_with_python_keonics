@@ -26,6 +26,11 @@
 
 ### Advanced Concepts using Python lists, tuples, sets & dictionaries
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/module2/ppt/Advanced%20Concepts%20Using%20Datastructures.pptx)
+
+### Python Scripting
+- [PPT]
+( https://github.com/tahirmirji/ai_with_python_keonics/blob/main/module2/ppt/Python%20Scripting.pptx )
+
 #### Class assignment:
 - Write a program to implement stack data structure using python.
 
