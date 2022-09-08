@@ -5,7 +5,7 @@
 ## Module 1 - Python Foundation
 
 ### Python Programming Introduction
-- [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Python_Fundamentals.pdf)
+[PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Python_Fundamentals.pdf)
 
 ### Data Types and Operators
 - [PPT](https://github.com/tahirmirji/ai_with_python_keonics/blob/main/Notes/Python_Fundamentals_01_Data_Types_and_Operators.pdf)
