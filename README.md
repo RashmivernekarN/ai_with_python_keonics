@@ -64,5 +64,5 @@ In a stack the element inserted last in sequence will come out first as we can r
 - [Get python libraries](https://pypi.org/)
 - [Official Python Tutorials](https://docs.python.org/3/tutorial/index.html)
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm)
-
+- [pip command](https://bootstrap.pypa.io/get-pip.py)
 
