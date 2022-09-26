@@ -1,0 +1,25 @@
+{
+    "student Bio":{
+        "first name":"A",
+        "last name":"B",
+        "DOB":"",
+        "address":{
+            "city":"Hubli"
+        }
+    },
+    "student Academic":
+    {
+    "grade":"A+",
+    "grade1":"A+",
+    "grade2":"A+"
+    },
+    "student Academic1":
+    {
+    "grade4":"A+",
+    "grade5":"A+",
+    "grade6":"A+"
+    }
+
+
+    
+}
