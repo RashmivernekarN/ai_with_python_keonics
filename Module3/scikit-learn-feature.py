@@ -211,7 +211,6 @@ _ = plot_feature_effects().set_title("Average feature effect on the original dat
 data_train = fetch_20newsgroups(
     subset="train", categories=categories, shuffle=True, random_state=42
 )
-
 for doc in data_train.data:
     if "caltech" in doc:
         print(doc)
